@@ -1,5 +1,19 @@
 ### Hi there 👋
-My github profile readme.md will be avalible soon because I have just found this features.
+A person who balance between programming and music. 
+
+Programming Languages:
+* C/C++ 
+* Python
+* Kotlin
+
+Field of Study:
+* Audio and Speech
+* Deep Learning
+* Music Production
+
+📫 How to reach me: 
+E-mail: tharathorn.wang@gmai.com
+Linkedin: https://www.linkedin.com/feed/
 <!--
 **Tharamac/Tharamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
