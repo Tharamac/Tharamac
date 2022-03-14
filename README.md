@@ -12,8 +12,8 @@ Field of Study:
 * Music Production
 
 📫 How to reach me: 
-E-mail: tharathorn.wang@gmai.com
-Linkedin: https://www.linkedin.com/in/tharathorn-wangth/
+* E-mail: tharathorn.wang@gmail.com
+* Linkedin: https://www.linkedin.com/in/tharathorn-wangth/
 <!--
 **Tharamac/Tharamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
