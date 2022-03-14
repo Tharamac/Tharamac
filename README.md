@@ -1,19 +1,22 @@
 ### Hi there 👋
 A person who balance between programming and music. 
+📫 How to reach me: 
+* E-mail: tharathorn.wang@gmail.com
+* Linkedin: https://www.linkedin.com/in/tharathorn-wangth/
 
-Programming Languages:
-* C/C++ 
-* Python
-* Kotlin
+Primary Programming Languages: 
+* C/C++                        
+* Python                       
+* Kotlin                       
 
 Field of Study:
 * Audio and Speech
 * Deep Learning
 * Music Production
 
-📫 How to reach me: 
-* E-mail: tharathorn.wang@gmail.com
-* Linkedin: https://www.linkedin.com/in/tharathorn-wangth/
+Feature Projects:
+* RectoNote
+[https://github.com/Tharamac/Rectonote]
 <!--
 **Tharamac/Tharamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
