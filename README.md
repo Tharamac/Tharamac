@@ -8,6 +8,7 @@ You can call me Mac. A person who is in between programming and music creation.
 Primary Programming Languages: 
 * C/C++                        
 * Python                       
+* Java
 * Kotlin                       
 
 Field of Study:
@@ -20,8 +21,7 @@ Feature Projects:
 * [RectoNote](https://github.com/Tharamac/Rectonote) (Kotlin / C++) is an Android application that can jot song ideas by using voice recording converted into melody and chord progression tracks in MIDI. The tracks are stored in projects and can be played. 
 
 Experiences:
-* Software Developer (actual work is a data scientist) @I&I Venture Company Limited which is subsidiary under I&I Group Public Company Limited
-
+* (Aug 2021 - Present) Software Developer (actual work is a data scientist) @I&I Venture Company Limited which is subsidiary under I&I Group Public Company Limited
 
 Education:
 - (2017 - 2021) Bachelor of Engineering in Computer Engineering@Prince of Songkhla University, First Class Honor, 2017 - 2021
