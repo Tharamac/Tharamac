@@ -11,12 +11,17 @@ Primary Programming Languages:
 * Kotlin                       
 
 Field of Study:
+* Software Development
 * Audio and Speech
 * Deep Learning
 * Music Production
 
 Feature Projects:
 * [RectoNote](https://github.com/Tharamac/Rectonote) (Kotlin / C++) is an Android application that can jot song ideas by using voice recording converted into melody and chord progression tracks in MIDI. The tracks are stored in projects and can be played. 
+
+Education:
+Bachelor of Engineering in Computer Engineering@ Prince of Songkhla University, First Class Ho,nor
+- I’m currently learning C++, nand EDM Production
 <!--
 **Tharamac/Tharamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
