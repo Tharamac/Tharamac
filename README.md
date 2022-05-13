@@ -9,7 +9,8 @@ Primary Programming Languages:
 * C/C++                        
 * Python                       
 * Java
-* Kotlin                       
+* Kotlin 
+* Dart                      
 
 Field of Study:
 * Software Development
@@ -17,7 +18,7 @@ Field of Study:
 * Deep Learning
 * Music Production
 
-Feature Projects:
+Featured Projects:
 * [RectoNote](https://github.com/Tharamac/Rectonote) (Kotlin / C++) is an Android application that can jot song ideas by using voice recording converted into melody and chord progression tracks in MIDI. The tracks are stored in projects and can be played. 
 
 Experiences:
