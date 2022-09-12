@@ -1,5 +1,5 @@
 ### Hi there 👋
-You can call me Mac. A person who is in between programming and music creation. 
+You can call me Mac. 
 
 📫 How to reach me: 
 * **E-mail:** tharathorn.wang@gmail.com
