@@ -5,18 +5,14 @@ You can call me Mac.
 * **E-mail:** tharathorn.wang@gmail.com
 * **Linkedin:** https://www.linkedin.com/in/tharathorn-wangth/
 
-Primary Programming Languages: 
-* C/C++                        
-* Python                       
-* Java
-* Kotlin 
-* Dart                      
+
+Programming Languages Personal Tier List: 
+* Good and Love: C/C++, Dart, Kotlin                        
+* Other: Java, Python            
 
 Field of Study:
 * Software Development (Mobile)
 * Audio and Speech
-* Deep Learning
-* Music Production
 
 Experiences:
 * **(Aug 2022 - )** Frontend Mobile Engineer @Fourgle
@@ -32,8 +28,6 @@ Featured Projects:
 * [**RectoNote**](https://github.com/Tharamac/Rectonote) (Kotlin / C++) is an Android application that can jot song ideas by using voice recording converted into melody and chord progression tracks in MIDI. The tracks are stored in projects and can be played. 
 * [**xRectoNote**](https://github.com/Tharamac/xRectoNote) (Flutter/Dart) is a cross-platform piano roll lyrics mapper application. This project's main challenge is to make piano roll UI which is very complex one because it contains piano guide, grids, and melody pattern display with lyric inside.
 
-
-
 Education:
 - **(2017 - 2021)** Bachelor of Engineering in Computer Engineering @Prince of Songkhla University, First Class Honor, 2017 - 2021
 <!-- - I’m currently learning C++, nand EDM Production -->
@@ -47,4 +41,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 😄 Pronouns: He/She
+- ⚡ Fun fact: This profile picture is drawn by Faye Ashefort who is a Vtuber under Rainbow Arc Label
 -->
