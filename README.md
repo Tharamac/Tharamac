@@ -31,7 +31,8 @@ Featured Projects:
 Education:
 - **(2017 - 2021)** Bachelor of Engineering in Computer Engineering @Prince of Songkhla University, First Class Honor, 2017 - 2021
 
-Special thanks to [Faye Ashefort](https://twitter.com/FAY3Ashefort) for my profile.
+Special thanks:
+- **[Faye Ashefort]** (https://twitter.com/FAY3Ashefort): my profile pics.
 <!-- - I’m currently learning C++, nand EDM Production -->
 <!--
 **Tharamac/Tharamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
