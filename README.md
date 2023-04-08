@@ -7,8 +7,8 @@ You can call me Mac.
 
 
 Programming Languages Personal Tier List: 
-* Currently Written: Dart, Flutter
-* Good and Love: C/C++, Dart, Kotlin                                
+* **Currently Written:** Dart, Flutter
+* **Good and Love:** C/C++, Dart, Kotlin                                
 
 Field of Study:
 * Software Development (Mobile)
