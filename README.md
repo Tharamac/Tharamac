@@ -15,13 +15,13 @@ Field of Study:
 * Audio and Speech
 
 Experiences:
-* **(Aug 2022 - )** Frontend Mobile Engineer @Fourgle
-* **(Aug 2021 - June 2022)** Data Scientist @I&I Venture Company Limited which is subsidiary under I&I Group Public Company Limited
+* **Aug 2022 - Present ::** Frontend Mobile Engineer @Fourgle
+* **Aug 2021 - June 2022 ::** Data Scientist @I&I Venture Company Limited which is subsidiary under I&I Group Public Company Limited
   *	Research and develop the speaker diarization and speech recognition module under voice quality checking system for contribution and implementation into the insurance businesses.
   *	Implement python programs for the speech processing pipeline and miscellaneous classes and functions
 
 
-* **(Apr 2021 - Jun 2021)** Python Developer Intern @National Science and Technology Development Agency (NSTDA)
+* **Apr 2021 - Jun 2021 ::** Python Developer Intern @National Science and Technology Development Agency (NSTDA)
   * Designed and developed the human-robot interface desktop application using Pygame which displays emotional robot faces and navigates to other windows for further uses.
 
 Featured Projects:
