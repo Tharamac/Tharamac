@@ -1,18 +1,17 @@
-# Tharathorn Wangthammang (Mac) 
+# Tharathorn Wangthammang
 Frontend Engineer with over 3 years of experience developing large-scale cross-platform mobile applications. Proficient in Dart, Flutter, and integrating RESTful APIs. Good collaboration with frontend, backend, and design teams to deliver effective solutions for complex business requirements.
 
-## 📫 Contact: 
+## 📫 Contact
 * **E-mail:** tharathorn.wang@gmail.com
 * **Linkedin:** https://www.linkedin.com/in/tharathorn-wangth/
 
-## Programming Languages 
-* **Currently Written:** Dart
-* **Good:** C/C++, Kotlin  
+## Skills
+* **Programming Languages**: Dart, Kotlin, Typescript, C/C++
+* **Tools and technologies**: Flutter, Firebase, Android with Native Development Kit, Kotlin Multiplatform, Git version control, Appium Inspector, FFmpeg
+* **Soft Skills**: Self-directed learning, problem-solving, and interpersonal communication
+* **Written and Spoken Languages**: Thai (Native), English
 
-## Tool and Technologies
-* Flutter / Firebase / Android with Native Development Kit / Git version control / Appium Inspector / ffmpeg
-
-## Experiences:
+## Experiences
 * **Aug 2022 - Present ::** Frontend Mobile Engineer @Throughwave Thailand Co., Ltd. (formerly Fourgle Thailand Co., Ltd., transferred in Sept 2024) 
    * Work remotely as part of an agile team to develop and maintain multi-factor search engine cross-platform mobile application, also involved in the cross-platform community mobile application for several additional features.
    * Implement clean, effective, and visually appealing features with Dart and Flutter for large-scale systems and complex UI designs.
@@ -31,15 +30,18 @@ Frontend Engineer with over 3 years of experience developing large-scale cross-p
 * **Apr 2021 - Jun 2021 ::** Python Developer Intern @National Science and Technology Development Agency (NSTDA)
   * Designed and developed the human-robot interface desktop application using Pygame which displays emotional robot faces and navigates to other windows for further uses.
 
-## Education:
+## Projects
+* [**SwipeLotto**](https://github.com/Tharamac/SwipeLotto) (2025) (Kotlin Multiplatform / Kotlin) is random 6-digit number generator cross-platform mobile application for internal entertainment purpose.
+* [**mental_monitor**](https://github.com/Tharamac/mental-monitor) (2022 – 2023) (Flutter / Dart) is local mood tracking and logging cross-platform mobile application outsourced for educational and research purpose. 
+* [**RectoNote**](https://github.com/Tharamac/Rectonote) (2021) (Android Native / Kotlin / C++) is an Android application that can jot song ideas by using voice recording converted into melody and chord progression tracks in MIDI. The tracks are stored in projects and can be played. 
+* [**xRectoNote**](https://github.com/Tharamac/xRectoNote) (2021) (Flutter / Dart) is a cross-platform piano roll lyrics mapper application. This project's main challenge is to make piano roll UI which is very complex one because it contains piano guide, grids, and melody pattern display with lyric inside.
+
+## Education
 - **(2017 - 2021)** Bachelor of Engineering in Computer Engineering @Prince of Songkhla University, First Class Honor, 2017 - 2021
-### Senior Projects:
-* [**RectoNote**](https://github.com/Tharamac/Rectonote) (Kotlin / C++) is an Android application that can jot song ideas by using voice recording converted into melody and chord progression tracks in MIDI. The tracks are stored in projects and can be played. 
-* [**xRectoNote**](https://github.com/Tharamac/xRectoNote) (Flutter/Dart) is a cross-platform piano roll lyrics mapper application. This project's main challenge is to make piano roll UI which is very complex one because it contains piano guide, grids, and melody pattern display with lyric inside.
 
 
-Special thanks:
-- [**Faye Ashefort**](https://twitter.com/FAY3Ashefort): my profile pics.
+
+
 <!-- - I’m currently learning C++, nand EDM Production -->
 <!--
 **Tharamac/Tharamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
