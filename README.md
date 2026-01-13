@@ -37,7 +37,7 @@ Frontend Engineer with over 3 years of experience developing large-scale cross-p
 * [**xRectoNote**](https://github.com/Tharamac/xRectoNote) (2021) (Flutter / Dart) is a cross-platform piano roll lyrics mapper application. This project's main challenge is to make piano roll UI which is very complex one because it contains piano guide, grids, and melody pattern display with lyric inside.
 
 ## Education
-- **(2017 - 2021)** Bachelor of Engineering in Computer Engineering @Prince of Songkhla University, First Class Honor, 2017 - 2021
+- **(2017 - 2021)** Bachelor of Engineering in Computer Engineering @Prince of Songkhla University, First Class Honor
 
 
 
